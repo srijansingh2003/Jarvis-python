@@ -168,11 +168,7 @@ if __name__=="__main__":
 
             elif "open notepad"in query:
                 speak("opening notepad")
-                os.startfile("notepad.exe") 
-
-            elif "open downloads"in query:
-                speak("opening downloads")
-                os.startfile("C://Users//HOME//Downloads")          
+                os.startfile("notepad.exe")        
 
             else:
                 query=query
