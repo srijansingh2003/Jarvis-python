@@ -3,24 +3,6 @@
 #### It is a voice assistant. It can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
 
 ![Jarvis](https://wallpapercave.com/wp/wp1913282.jpg)
-
-## 🏹 Features
-- Wish user
-- Tells about weather
-- Open any website
-- Tells about upcoming events
-- Play music online
-- Play vidoes on youtube
-- Can do mathematical calculations
-- Can tell latest news
-- Open any software of your choice
-- You can join your meetings fast using this
-- Answer any generic questions
-- Can tell you about any person via wikipedia
-- It can shutdown your computer/laptop on yor command
-- Can search any anything on google
-- You can check your emails using this
-  
   ---
 
 ## 📃 Installation
@@ -153,6 +135,25 @@ Pure Python, cross platform, single function module with no dependencies for pla
 from playsound import playsound
 playsound('/path/to/a/sound/file/you/want/to/play.mp3')
 ```
+---
+## 🏹 Features
+- Wish user
+- Tells about weather
+- Open any website
+- Tells about upcoming events
+- Play music online
+- Play vidoes on youtube
+- Can do mathematical calculations
+- Can tell latest news
+- Open any software of your choice
+- You can join your meetings fast using this
+- Answer any generic questions
+- Can tell you about any person via wikipedia
+- It can shutdown your computer/laptop on yor command
+- Can search any anything on google
+- You can check your emails using this
+
+  ---
 
 ## License
 
