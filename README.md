@@ -23,7 +23,7 @@ Usage:
 
 ```python
 import wolframalpha
-client = wolframalpha.Client("uniquedid")
+client = wolframalpha.Client("uniqueID")
 res = client.query()
 results = next(res.results).text
 ```
